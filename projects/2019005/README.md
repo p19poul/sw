@@ -2,7 +2,7 @@
 
 ### Ονοματεπώνυμο: Σπυρίδων Πουλημένος
 ### Αριθμός Μητρώου: Π2019005
-### [github profile](https://github.com/p19poul)
+### [Github profile](https://github.com/p19poul)
 
 ### Όνομα οργανισμού: Suicide squad
 Η [ομαδα μου](https://github.com/IonianUniversity2019)
